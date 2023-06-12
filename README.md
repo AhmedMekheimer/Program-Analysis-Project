@@ -3,10 +3,8 @@ Use bitwise algorithm to create reaching definitions and live variable analysis 
 <br>
 int main()
 {
-    // variable declaration
     int i, number;
 
-    // take user input
     printf("Enter a number: ");
     scanf("%d", &number);
 
