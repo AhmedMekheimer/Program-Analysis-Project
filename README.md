@@ -1,6 +1,7 @@
 # Program-Analysis-Project
 Use bitwise algorithm to create reaching definitions and live variable analysis for the following C program 
-<br>int main()
+<br>
+int main()
 {
     // variable declaration
     int i, number;
